@@ -21,6 +21,8 @@ MonoBehaviour:
       Value: 1
       index: 0
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: b61e32838649645f69d1285e1983db1b, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 10469ca83a5ab4b729c8309183be3511, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

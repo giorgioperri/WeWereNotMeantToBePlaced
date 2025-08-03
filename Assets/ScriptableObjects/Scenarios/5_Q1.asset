@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: I tried
   rightButtonText: I had reasons not to
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: Did you step gently through the world?
       Value: 1
       index: 0
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 72009da8ba09844d0a7f93a25be75a55, type: 3}
   delayBeforeNextScene: 0
   nextScene: {fileID: 11400000, guid: 4ec439dc58df24d4086a1bb9d0fee58d, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

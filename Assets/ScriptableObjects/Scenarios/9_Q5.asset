@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: Yes
   rightButtonText: No
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: Would you have stayed longer?
       Value: 1
       index: 0
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: f36d54104e38a4e6d993e1c48e0a5306, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 54ca963db45d7416c928e5abf3d4675c, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

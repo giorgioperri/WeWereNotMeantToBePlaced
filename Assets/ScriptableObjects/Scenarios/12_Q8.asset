@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: If i had to
   rightButtonText: I would not
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: You once claimed you were honest. Would you lie now?
       Value: 1
       index: 0
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: f489d5dac431246f3ac0b67431c9b807, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: c538a33ba922c4add8314ed80c7e58e0, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

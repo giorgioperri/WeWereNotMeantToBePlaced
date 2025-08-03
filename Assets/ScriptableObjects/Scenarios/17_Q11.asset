@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: Yes
   rightButtonText: No
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: "Would you erase what you\u2019ve done"
@@ -24,6 +25,8 @@ MonoBehaviour:
       Value: 0
       index: 1
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: 1bc55f7b7ccd44dc2ad27c015c0b79d5, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 8dc18194bdb394739a822e60a4c28cc7, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

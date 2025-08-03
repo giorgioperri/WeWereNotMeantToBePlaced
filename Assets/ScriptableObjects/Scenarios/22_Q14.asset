@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: Yes
   rightButtonText: I don't know
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: Are you still answering honestly?
       Value: 1
       index: 0
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: f87d365632f364b28b8b4bea44d092c4, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 748d718334a764390b6490185039bccf, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

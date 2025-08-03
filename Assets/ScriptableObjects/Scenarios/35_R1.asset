@@ -53,7 +53,7 @@ MonoBehaviour:
       Value: 1
       index: 8
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: d240dd06c5f9f415caa2c5428aa8be9a, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 7ccd451b8e1144e9ea3b2179d19b5ae8, type: 2}
   doesAnswerMatter: 0

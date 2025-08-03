@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftButtonText: Cruelty stays
   rightButtonText: Kindness echoes
+  thirdButtonText: 
   centralTextOrQuestion:
     dictionaryList:
     - Key: You are both kind and cruel
@@ -24,6 +25,8 @@ MonoBehaviour:
       Value: 0
       index: 1
       isKeyDuplicated: 0
-  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  backgroundImage: {fileID: 21300000, guid: d286485c695764809834960d53d44ab9, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: 9aa0419ed87f247149e8263ac13eae8d, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0
