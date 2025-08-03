@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a13e67d05e63459f964e3cfcca2c864, type: 3}
+  m_Name: 33_L1
+  m_EditorClassIdentifier: 
+  leftButtonText: 
+  rightButtonText: 
+  thirdButtonText: 
+  centralTextOrQuestion:
+    dictionaryList:
+    - Key: In the end, you formed a shape.
+      Value: 1
+      index: 0
+      isKeyDuplicated: 0
+    - Key: It may not be perfect, but it is legible.
+      Value: 0
+      index: 1
+      isKeyDuplicated: 0
+    - Key: 
+      Value: 0
+      index: 2
+      isKeyDuplicated: 0
+    - Key: It glows like a known star
+      Value: 1
+      index: 3
+      isKeyDuplicated: 0
+    - Key: something that can be charted
+      Value: 0
+      index: 4
+      isKeyDuplicated: 0
+    - Key: ' '
+      Value: 0
+      index: 5
+      isKeyDuplicated: 0
+    - Key: Held in the mind
+      Value: 1
+      index: 6
+      isKeyDuplicated: 0
+    - Key: Spoken aloud
+      Value: 0
+      index: 7
+      isKeyDuplicated: 0
+  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  delayBeforeNextScene: 2.5
+  nextScene: {fileID: 11400000, guid: 888a70cb9fd6e481eaeaecfd717adc7b, type: 2}
+  doesAnswerMatter: 0
+  isFinalScene: 0

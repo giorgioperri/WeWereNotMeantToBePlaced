@@ -25,5 +25,8 @@ public class SceneContentSO : ScriptableObject
     
     public float delayBeforeNextScene = 2.75f;
     public SceneContentSO nextScene;
+    
+    public bool doesAnswerMatter = false;
+    public bool isFinalScene = false;
 }
 

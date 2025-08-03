@@ -24,3 +24,5 @@ MonoBehaviour:
   backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
   delayBeforeNextScene: 2.5
   nextScene: {fileID: 11400000, guid: a24f4dc11e8374e8e80ad83e4835fc45, type: 2}
+  doesAnswerMatter: 1
+  isFinalScene: 0

@@ -172,8 +172,11 @@ MonoBehaviour:
   thirdButtonText: {fileID: 1501598711}
   centralTextParent: {fileID: 1785277675}
   textCanvasGroup: {fileID: 1785277677}
-  beginningScene: {fileID: 11400000, guid: 32540585cc3a646b287c1d03ea08be99, type: 2}
+  beginningScene: {fileID: 11400000, guid: 4d03057bbe1864ddb993eccedfc84738, type: 2}
   refusalScene: {fileID: 11400000, guid: 051b07c1dbbfb43ecaf9ff956f27fb3b, type: 2}
+  leftEndingScene: {fileID: 11400000, guid: 855fea3264f36450483fb24ef74d42be, type: 2}
+  rightEndingScene: {fileID: 11400000, guid: 08adbd4a7077747d7befbf6606002b52, type: 2}
+  thirdEndingScene: {fileID: 11400000, guid: 410e6352e17f045d1a1ccb9822d7dc8f, type: 2}
   _animator: {fileID: 921800190}
   _bebas: {fileID: 11400000, guid: 380822209465b4274926eda4f20cc68d, type: 2}
   _ephidona: {fileID: 11400000, guid: e09691f4c522f4a7ea700f665f9deb48, type: 2}
@@ -1760,8 +1763,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

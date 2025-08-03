@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a13e67d05e63459f964e3cfcca2c864, type: 3}
+  m_Name: 36_R2
+  m_EditorClassIdentifier: 
+  leftButtonText: 
+  rightButtonText: 
+  thirdButtonText: 
+  centralTextOrQuestion:
+    dictionaryList:
+    - Key: You cannot be placed
+      Value: 1
+      index: 0
+      isKeyDuplicated: 0
+    - Key: And so you will not be.
+      Value: 0
+      index: 1
+      isKeyDuplicated: 0
+  backgroundImage: {fileID: 21300000, guid: 9e43de73cbab345b2887aaf09df65cef, type: 3}
+  delayBeforeNextScene: 2.5
+  nextScene: {fileID: 0}
+  doesAnswerMatter: 0
+  isFinalScene: 0
